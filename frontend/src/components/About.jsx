@@ -65,7 +65,7 @@ export default function About() {
             <div className="glass rounded-2xl p-8 neon-border mb-6">
               <p className="code-tag mb-4">&lt;about&gt;</p>
               <p className="text-white/70 leading-relaxed mb-4">
-                I'm a fourth-year <span className="text-violet-300 font-medium">Computer Science student</span> at KIIT University, deeply passionate about building things that matter. From intelligent AI systems to polished full-stack apps — I love turning ideas into reality.
+                I'm a final-year <span className="text-violet-300 font-medium">Computer Science student</span> at KIIT University, deeply passionate about building things that matter. From intelligent AI systems to polished full-stack apps — I love turning ideas into reality.
               </p>
               <p className="text-white/70 leading-relaxed mb-4">
                 My journey spans <span className="text-cyan-300 font-medium">full-stack development</span> with React and Node.js, <span className="text-violet-300 font-medium">machine learning</span> with Python and LangChain, and solving algorithmic challenges. I believe great software is both technically solid and beautifully designed.
