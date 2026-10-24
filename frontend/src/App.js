@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import CursorTrail from "./components/CursorTrail";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
@@ -68,6 +69,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-primary text-white">
+      <CursorTrail />
       <AnimatePresence>{loading && <Loader />}</AnimatePresence>
       {!loading && (
         <>
